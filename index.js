@@ -134,7 +134,7 @@ const writeFile = data => {
 // function call to initialize program
 questions()
 // getting user answers 
-.then(answers => {
+.then((answers) => {
     return generatePage(answers);
 })
 // using data to display on page 

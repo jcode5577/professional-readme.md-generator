@@ -1,8 +1,8 @@
-# README.md Generator
+# Professional README.md Generator
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  A Dynamic README.md Generator for future projects.
+  This Project is an application that creates a professional README.md, using Node.js.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,14 +12,15 @@
   * [Questions](#questions)
   
   ## Installation 
-  npm Install in the terminal, then used the command node index.js to exicute the program.
+  First the user must download Node.js. Then requires a series of commands and an Inquirer module. Which will exiciute the application.
   ## Usage 
-  To create a README.md File.
+  This application is used to create a professional README.md generator. ![ Professiona README.md creation-demo](./assets/Professional-README.webm)
+
   ## License 
   This project is license under MIT
   ## Contributing 
   
   ## Tests
-  npm run test
+  npm test
   ## Questions
-  If you have any questions about this projects, please contact me directly at john.hamilton5577@gmail.com. You can view more of my projects at https://github.com/jcode5577.
+  If you have any questions about this projects, please contact me directly at john.hamiltton5577@gmail.com. You can view more of my projects at https://github.com/Jcode5577.
